@@ -1,0 +1,25 @@
+{
+  "name": "Offline OCR + TTS + STT",
+  "short_name": "OCR-TTS-STT",
+  "description": "A Progressive Web App to extract text from images, summarize, speak text, and convert speech to text offline.",
+  "lang": "en",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4a6bff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["utilities", "education"],
+  "prefer_related_applications": false
+}
